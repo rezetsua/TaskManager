@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>components/CustomButton.qml</file>
+        <file>components/qmldir</file>
+        <file>theme/TaskTheme.qml</file>
+        <file>theme/qmldir</file>
+        <file>icon/play.svg</file>
+        <file>icon/check.svg</file>
+        <file>icon/cancel.svg</file>
+        <file>icon/play.png</file>
+        <file>components/CustomProgressBar.qml</file>
+    </qresource>
+</RCC>
