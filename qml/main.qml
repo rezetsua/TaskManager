@@ -162,6 +162,7 @@ Window {
                                     onTapped: {
                                         taskIndexButton.buttonChecked = false
                                         taskProgressBar.progress = 0
+                                        updateInfo()
                                     }
                                 }
                             }
